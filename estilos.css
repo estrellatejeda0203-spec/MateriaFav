@@ -1,0 +1,91 @@
+
+body{
+    background-color: #F8F3E9;
+    font-family: Arial, sans-serif;
+    color: #3E2C23;
+}
+
+.navbar{
+    background: linear-gradient(90deg,#d6c2b4,#efe3d4) !important;
+    padding: 12px 0;
+    box-shadow:0 3px 10px rgba(0,0,0,.15);
+}
+
+.navbar-brand{
+    color:#5C4033 !important;
+    font-size:32px;
+    font-weight:bold;
+}
+
+.navbar-brand img{
+    border-radius:50%;
+}
+
+.nav-link{
+    color:#5C4033 !important;
+    font-size:18px;
+    margin-left:15px;
+}
+
+.nav-link:hover{
+    color:#A47148 !important;
+}
+
+/* Título principal */
+h1{
+    color: #5C4033;
+    font-weight: bold;
+}
+
+/* Botón */
+.btn-warning{
+    background-color: #A47148;
+    border: none;
+    color: white;
+}
+
+.btn-warning:hover{
+    background-color: #8B5E3C;
+}
+
+
+
+
+h2{
+    color: #5C4033;
+    font-weight: bold;
+}
+
+
+.card{
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+    transition: .3s;
+}
+
+.card:hover{
+    transform: translateY(-8px);
+}
+
+.card img{
+    height: 220px;
+    object-fit: cover;
+}
+
+.card-body{
+    background: #FFFDF8;
+}
+
+.btn-warning{
+    width: 100%;
+    background-color: #A47148;
+    border: none;
+    color: white;
+}
+
+.btn-warning:hover{
+    background-color: #8B5E3C;
+}
+
